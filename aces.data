@@ -1,0 +1,4 @@
+classes= 52
+train  = data/train.txt
+names = data/aces.names
+backup = weights
